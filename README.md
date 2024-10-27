@@ -1,4 +1,4 @@
-# Foo Bar knock knock - Never miss your girlfriend's messages again ❤️
+# Foo knock knock - Never miss your girlfriend's call/dm s again ❤️
 
 **An Android application that can listen for app notifications/calls and provide timely alerts**
 
